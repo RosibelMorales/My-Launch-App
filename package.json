@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RosibelMorales/My-Launch-App/issues"
   },
-  "homepage": "https://github.com/RosibelMorales/My-Launch-App#readme"
+  "homepage": "https://github.com/RosibelMorales/My-Launch-App#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
