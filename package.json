@@ -1,0 +1,19 @@
+{
+  "name": "my-launch-app",
+  "version": "1.0.0",
+  "description": "Project 1 - Week 3 - Mission Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosibelMorales/My-Launch-App.git"
+  },
+  "author": "Rosibel Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RosibelMorales/My-Launch-App/issues"
+  },
+  "homepage": "https://github.com/RosibelMorales/My-Launch-App#readme"
+}
